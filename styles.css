@@ -118,8 +118,7 @@ a {
 	margin: 0px;
 	width: auto;
 	color: black;
-	border: 1px blue solid;
-
+	border: 1px blue solid !important;
 }
 
 #ht1 {
