@@ -98,7 +98,7 @@ a {
 
 .navbar-toggle {
 	border-color: black;
-	border-style: solid;
+	border-style: solid !important;
 	border-width: 1px;
 	background-color: #99EE99 !important;
 }
