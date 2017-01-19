@@ -5,6 +5,10 @@
 	color: black;
 }
 
+li {
+    border: 1px solid blue;
+}
+
 body {
 	font-family: 'Dancing Script', cursive;
 	color: black;
